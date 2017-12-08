@@ -1,3 +1,12 @@
+/********************************************
+**
+** Copyright 2017 JustCode Justyna Kulinska
+**
+** This file is part of SingleApp and
+** it is released under a MIT licence.
+**
+********************************************/
+
 #ifndef QTSINGLEAPPMANAGER_H
 #define QTSINGLEAPPMANAGER_H
 
